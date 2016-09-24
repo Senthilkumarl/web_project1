@@ -1,0 +1,19 @@
+{
+  "name": "web_project1",
+  "version": "1.0.0",
+  "description": "This is a tutorial project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Senthilkumarl/web_project1.git"
+  },
+  "author": "Senthilkumar Lakshmanan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Senthilkumarl/web_project1/issues"
+  },
+  "homepage": "https://github.com/Senthilkumarl/web_project1#readme"
+}
